@@ -1,0 +1,28 @@
+* {
+  background-color: rgb(179, 147, 147);
+  margin: 0 auto;
+}
+
+h1, h2{
+  color: white;
+}
+
+div {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  background: rgb(107, 107, 42);
+  padding: 10px 120px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+
+h2 {
+  text-align: center;
+  margin-top: 60px;
+  color: rgb(41, 41, 35);
+}
